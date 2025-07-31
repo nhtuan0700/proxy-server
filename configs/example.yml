@@ -1,0 +1,5 @@
+target_domains:
+  - key: "link1"
+    domain: ""
+    schema: "https"
+  
